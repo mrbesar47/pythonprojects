@@ -1,4 +1,4 @@
-# pythonprojects
+# python project - Scraper
 
 Python Scraper for a watchlist of stocks
 
